@@ -20,5 +20,5 @@ To run the Fresh Produce Application locally, follow these steps:
 1. [slugify](https://www.npmjs.com/package/slugify)
 
 ## Screenshots of App
-![main](../node-farm/public/assets/screenshot1.png)
-![details](../node-farm/public/assets/screenshot2.png)
+![main](./public/assets/screenshot1.png)
+![details](./public/assets/screenshot2.png)
